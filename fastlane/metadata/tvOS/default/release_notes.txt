@@ -1,4 +1,1 @@
-* OpenVPN: Fix random crashes during negotiation (#1161)
-* Fix behavior of "Including" on-demand policy (#1151)
-* Optionally resort to CloudFlare when no DNS settings are provided (#1165)
-* Fix German translations
+* WireGuard: Fix public DNS in split VPN setups (#1207)
