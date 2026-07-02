@@ -8,7 +8,7 @@
 [![Discuss on GitHub](https://img.shields.io/badge/discuss-GitHub-lightgray.svg)][about-github-discussions]
 [![Join TestFlight](https://img.shields.io/badge/beta-Testflight-blue.svg)][about-testflight]
 
-Passepartout is your go-to app for VPN and privacy.
+Passepartout (French: /pas.paʁ.tu/) is your go-to app for VPN and privacy.
 
 Passepartout runs on [iPhone, iPad, Mac, and Apple TV][appstore]. Soon on Android and Windows.
 
